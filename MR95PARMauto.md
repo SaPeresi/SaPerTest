@@ -1,5 +1,5 @@
 **MR95 Parameter File Syntax**
-
+<table>
 +----------------------------------------------------------------------+
 | **Format: EXTRPARM file**                                            |
 |                                                                      |
@@ -584,3 +584,4 @@ entered, separated by commas, on the same line.
 |         |         |         | set of  |         |         |         |
 |         |         |         | views   |         |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
+</table>
